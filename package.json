@@ -5,8 +5,13 @@
   "main": "index.js",
   "type": "module",
   "scripts": {},
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "OS",
+    "network",
+    "ip address",
+    "CLI"
+  ],
+  "author": "Houssam OUATMANI <ouatmanihoussam@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "xml-js": "^1.6.11"
