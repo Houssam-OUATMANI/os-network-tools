@@ -1,0 +1,14 @@
+{
+  "name": "os-tools",
+  "version": "1.0.0",
+  "description": "Get information about OS and Network",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xml-js": "^1.6.11"
+  }
+}
