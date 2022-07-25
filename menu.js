@@ -1,4 +1,4 @@
-const menu = `WELCOME TO OS TOOLS:
+const menu = `WELCOME TO OS NETWORK TOOLS:
 
 Options:
 [1] : Get Operating System Informations

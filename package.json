@@ -1,5 +1,5 @@
 {
-  "name": "os-tools",
+  "name": "os-network-tools",
   "version": "1.0.0",
   "description": "Get information about OS and Network",
   "main": "index.js",
