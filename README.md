@@ -20,18 +20,18 @@ Flags must be specified as second arguments after specifying options
 
 ## Examples
 
-### node ./index.js --help (-h)
+### node ./node_modules/os-network-tools/index.js  --help (-h)
 Output  help menu 
-### node ./index.js 1
+### node ./node_modules/os-network-tools/index.js 1 
 Output Operating System Informations into your running terminal
-### node ./index.js 1 output-json
+### node ./node_modules/os-network-tools/index.js 1  output-json
 Ouput Operating System Informations into a JSON file
-### node ./index.js 1 output-xml
+### node ./node_modules/os-network-tools/index.js 1 output-xml
 Ouput Operating System Informations into a XML file
-### node ./index.js 2
+### node ./node_modules/os-network-tools/index.js  2
 Output Network Informations into your running terminal
-### node ./index.js 2 output-json
+### node ./node_modules/os-network-tools/index.js  2 output-json
 Ouput Network Informations into a JSON file
-### node ./index.js 2 output-xml
+### node ./node_modules/os-network-tools/index.js  2 output-xml
 Ouput Network Informations into a XML file
 
